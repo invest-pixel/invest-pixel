@@ -1,6 +1,5 @@
 <div align="center">
-## My GitHub Snake 🐍
-![Snake animation](https://github.com/invest-pixel/invest-pixel/blob/output/github-contribution-grid-snake.svg)
+
 # Khải
 
 ### Data Science & AI Student at VNU-HCM University of Science (HCMUS)
@@ -59,6 +58,12 @@ I am currently a **Data Science & AI Student** at **VNU-HCM University of Scienc
 </p>
 
 <br />
+
+----
+### 🐍 My GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/invest-pixel/invest-pixel/output/github-contribution-grid-snake.svg)
+----
 
 ### Tools & Platforms
 
