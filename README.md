@@ -59,11 +59,7 @@ I am currently a **Data Science & AI Student** at **VNU-HCM University of Scienc
 
 <br />
 
-----
-### 🐍 My GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/invest-pixel/invest-pixel/output/github-contribution-grid-snake.svg)
-----
 
 ### Tools & Platforms
 
@@ -75,6 +71,12 @@ I am currently a **Data Science & AI Student** at **VNU-HCM University of Scienc
   <img src="https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
+---
+----
+### 🐍 My GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/invest-pixel/invest-pixel/output/github-contribution-grid-snake.svg)
+----
 ---
 
 ## 📊 GitHub Stats
